@@ -42,9 +42,13 @@ VIEWING, EDITING AND DELTING NOTES-
 # Try it out!
 
 1)git clone <url of the repo>
+
 2)npm install
+
 3)cd frontend
+
 4)npm install
+
 5)from the root of the directory run "npm run dev".
 
 
