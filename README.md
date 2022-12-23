@@ -39,6 +39,11 @@ VIEWING, EDITING AND DELTING NOTES-
 ![image](https://user-images.githubusercontent.com/68536395/209308601-f5dc71f9-76a3-48ac-acca-e58d6c34d08f.png)
 
 
+MONGODB Screenshot-
+
+![image](https://user-images.githubusercontent.com/68536395/209309769-6f17d91e-474c-412a-908d-1d9ffdf0553f.png)
+
+
 # Try it out!
 
 1)git clone <url of the repo>
